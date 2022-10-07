@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Apesito</string>
+    <string name="title_activity_main">Apesito</string>
+    <string name="package_name">apesito.example.app</string>
+    <string name="custom_url_scheme">apesito.example.app</string>
+</resources>
